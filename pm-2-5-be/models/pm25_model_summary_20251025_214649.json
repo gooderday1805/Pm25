@@ -1,0 +1,90 @@
+{
+  "best_model": "Neural Network",
+  "best_rmse": 12.087446159408032,
+  "best_mae": 6.224324205558152,
+  "best_r2": 0.9657765468002553,
+  "all_results": [
+    {
+      "Model": "Neural Network",
+      "RMSE": 12.087446159408032,
+      "MAE": 6.224324205558152,
+      "R\u00b2": 0.9657765468002553
+    },
+    {
+      "Model": "LightGBM",
+      "RMSE": 13.483599000848574,
+      "MAE": 6.153315523063228,
+      "R\u00b2": 0.9574140461048829
+    },
+    {
+      "Model": "XGBoost",
+      "RMSE": 13.59214299250112,
+      "MAE": 6.258073009745972,
+      "R\u00b2": 0.9567256460779267
+    },
+    {
+      "Model": "Linear Regression",
+      "RMSE": 13.732280781787363,
+      "MAE": 6.821399053362694,
+      "R\u00b2": 0.9558287110239795
+    },
+    {
+      "Model": "Ridge Regression",
+      "RMSE": 13.799722732555475,
+      "MAE": 6.831587297696068,
+      "R\u00b2": 0.9553937777207231
+    },
+    {
+      "Model": "Random Forest",
+      "RMSE": 14.299441107272793,
+      "MAE": 6.905915534486993,
+      "R\u00b2": 0.9521047052818775
+    }
+  ],
+  "feature_columns": [
+    "pm2_5_lag_1",
+    "pm2_5_lag_2",
+    "pm2_5_roll_avg_3hr",
+    "pm2_5_roll_std_3hr",
+    "pm2_5_diff_1hr",
+    "temp_diff_1hr",
+    "temp_roll_avg_3hr",
+    "humid_diff_1hr",
+    "humid_roll_avg_3hr",
+    "radiation_lag_1",
+    "so2_lag_1",
+    "so2_roll_avg_3hr",
+    "wind_roll_avg_3hr",
+    "wind_roll_min_3hr",
+    "co_roll_avg_3hr",
+    "co_lag_1",
+    "precip_roll_sum_3hr",
+    "temperature_2m",
+    "relative_humidity_2m",
+    "precipitation",
+    "pressure_msl",
+    "windspeed_10m",
+    "shortwave_radiation",
+    "co",
+    "no",
+    "no2",
+    "o3",
+    "so2",
+    "pm10",
+    "nh3",
+    "is_rainy_season",
+    "hour_sin",
+    "hour_cos",
+    "month_sin",
+    "month_cos",
+    "day_of_week_sin",
+    "day_of_week_cos",
+    "temp_humidity",
+    "wind_U",
+    "wind_V"
+  ],
+  "training_samples": 10289,
+  "test_samples": 2573,
+  "model_filename": "best_pm25_model_20251025_214649.pkl",
+  "scaler_filename": "pm25_scaler_20251025_214649.pkl"
+}

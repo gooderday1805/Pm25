@@ -1,0 +1,82 @@
+{
+  "pm25_breakpoints": [
+    {
+      "aqi_low": 0,
+      "aqi_high": 50,
+      "pm25_low": 0.0,
+      "pm25_high": 12.0,
+      "level": "Good",
+      "level_vi": "Tốt",
+      "color": "#00E400",
+      "health_implications": "Air quality is satisfactory, and air pollution poses little or no risk.",
+      "health_implications_vi": "Chất lượng không khí tốt, ô nhiễm không khí không gây rủi ro hoặc gây rủi ro rất thấp.",
+      "cautionary_statement": "None",
+      "cautionary_statement_vi": "Không có"
+    },
+    {
+      "aqi_low": 51,
+      "aqi_high": 100,
+      "pm25_low": 12.1,
+      "pm25_high": 35.4,
+      "level": "Moderate",
+      "level_vi": "Trung bình",
+      "color": "#FFFF00",
+      "health_implications": "Air quality is acceptable. However, there may be a risk for some people, particularly those who are unusually sensitive to air pollution.",
+      "health_implications_vi": "Chất lượng không khí ở mức chấp nhận được. Tuy nhiên, một số người đặc biệt nhạy cảm với ô nhiễm không khí có thể gặp vấn đề sức khỏe.",
+      "cautionary_statement": "Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.",
+      "cautionary_statement_vi": "Người nhạy cảm nên cân nhắc giảm hoạt động ngoài trời kéo dài hoặc nặng."
+    },
+    {
+      "aqi_low": 101,
+      "aqi_high": 150,
+      "pm25_low": 35.5,
+      "pm25_high": 55.4,
+      "level": "Unhealthy for Sensitive Groups",
+      "level_vi": "Không tốt cho nhóm nhạy cảm",
+      "color": "#FF7E00",
+      "health_implications": "Members of sensitive groups may experience health effects. The general public is less likely to be affected.",
+      "health_implications_vi": "Các thành viên của nhóm nhạy cảm có thể bị ảnh hưởng sức khỏe. Người dân nói chung ít có khả năng bị ảnh hưởng.",
+      "cautionary_statement": "People with respiratory or heart disease, the elderly, and children should limit prolonged outdoor exertion.",
+      "cautionary_statement_vi": "Người mắc bệnh hô hấp hoặc tim mạch, người cao tuổi và trẻ em nên hạn chế hoạt động ngoài trời kéo dài."
+    },
+    {
+      "aqi_low": 151,
+      "aqi_high": 200,
+      "pm25_low": 55.5,
+      "pm25_high": 150.4,
+      "level": "Unhealthy",
+      "level_vi": "Không tốt cho sức khỏe",
+      "color": "#FF0000",
+      "health_implications": "Some members of the general public may experience health effects; members of sensitive groups may experience more serious health effects.",
+      "health_implications_vi": "Một số người dân có thể bị ảnh hưởng sức khỏe; các thành viên của nhóm nhạy cảm có thể bị ảnh hưởng nghiêm trọng hơn.",
+      "cautionary_statement": "People with respiratory or heart disease, the elderly, and children should avoid prolonged outdoor exertion; everyone else should limit prolonged outdoor exertion.",
+      "cautionary_statement_vi": "Người mắc bệnh hô hấp hoặc tim mạch, người cao tuổi và trẻ em nên tránh hoạt động ngoài trời kéo dài; mọi người khác nên hạn chế hoạt động ngoài trời kéo dài."
+    },
+    {
+      "aqi_low": 201,
+      "aqi_high": 300,
+      "pm25_low": 150.5,
+      "pm25_high": 250.4,
+      "level": "Very Unhealthy",
+      "level_vi": "Rất không tốt cho sức khỏe",
+      "color": "#8F3F97",
+      "health_implications": "Health alert: The risk of health effects is increased for everyone.",
+      "health_implications_vi": "Cảnh báo sức khỏe: Nguy cơ ảnh hưởng sức khỏe tăng lên đối với mọi người.",
+      "cautionary_statement": "People with respiratory or heart disease, the elderly, and children should avoid all outdoor exertion; everyone else should limit outdoor exertion.",
+      "cautionary_statement_vi": "Người mắc bệnh hô hấp hoặc tim mạch, người cao tuổi và trẻ em nên tránh mọi hoạt động ngoài trời; mọi người khác nên hạn chế hoạt động ngoài trời."
+    },
+    {
+      "aqi_low": 301,
+      "aqi_high": 500,
+      "pm25_low": 250.5,
+      "pm25_high": 500.4,
+      "level": "Hazardous",
+      "level_vi": "Nguy hiểm",
+      "color": "#7E0023",
+      "health_implications": "Health warning of emergency conditions: everyone is more likely to be affected.",
+      "health_implications_vi": "Cảnh báo tình trạng khẩn cấp về sức khỏe: mọi người đều có khả năng bị ảnh hưởng.",
+      "cautionary_statement": "Everyone should avoid all outdoor exertion.",
+      "cautionary_statement_vi": "Mọi người nên tránh mọi hoạt động ngoài trời."
+    }
+  ]
+}

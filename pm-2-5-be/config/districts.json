@@ -1,0 +1,246 @@
+{
+  "city": "Ho Chi Minh City",
+  "total_districts": 24,
+  "districts": [
+    {
+      "id": 1,
+      "name": "Quận 1",
+      "name_en": "District 1",
+      "lat": 10.7769,
+      "lon": 106.7009,
+      "area_km2": 7.73,
+      "population": 204899,
+      "type": "urban"
+    },
+    {
+      "id": 2,
+      "name": "Quận 2",
+      "name_en": "District 2",
+      "lat": 10.7881,
+      "lon": 106.7449,
+      "area_km2": 49.75,
+      "population": 164163,
+      "type": "urban"
+    },
+    {
+      "id": 3,
+      "name": "Quận 3",
+      "name_en": "District 3",
+      "lat": 10.7860,
+      "lon": 106.6788,
+      "area_km2": 4.90,
+      "population": 188851,
+      "type": "urban"
+    },
+    {
+      "id": 4,
+      "name": "Quận 4",
+      "name_en": "District 4",
+      "lat": 10.7590,
+      "lon": 106.7042,
+      "area_km2": 4.18,
+      "population": 180283,
+      "type": "urban"
+    },
+    {
+      "id": 5,
+      "name": "Quận 5",
+      "name_en": "District 5",
+      "lat": 10.7547,
+      "lon": 106.6669,
+      "area_km2": 4.27,
+      "population": 178523,
+      "type": "urban"
+    },
+    {
+      "id": 6,
+      "name": "Quận 6",
+      "name_en": "District 6",
+      "lat": 10.7474,
+      "lon": 106.6345,
+      "area_km2": 7.22,
+      "population": 253474,
+      "type": "urban"
+    },
+    {
+      "id": 7,
+      "name": "Quận 7",
+      "name_en": "District 7",
+      "lat": 10.7333,
+      "lon": 106.7219,
+      "area_km2": 35.42,
+      "population": 355000,
+      "type": "urban"
+    },
+    {
+      "id": 8,
+      "name": "Quận 8",
+      "name_en": "District 8",
+      "lat": 10.7381,
+      "lon": 106.6762,
+      "area_km2": 19.02,
+      "population": 440000,
+      "type": "urban"
+    },
+    {
+      "id": 9,
+      "name": "Quận 9",
+      "name_en": "District 9",
+      "lat": 10.8401,
+      "lon": 106.7924,
+      "area_km2": 114.02,
+      "population": 270000,
+      "type": "urban"
+    },
+    {
+      "id": 10,
+      "name": "Quận 10",
+      "name_en": "District 10",
+      "lat": 10.7726,
+      "lon": 106.6700,
+      "area_km2": 5.87,
+      "population": 208433,
+      "type": "urban"
+    },
+    {
+      "id": 11,
+      "name": "Quận 11",
+      "name_en": "District 11",
+      "lat": 10.7625,
+      "lon": 106.6503,
+      "area_km2": 4.91,
+      "population": 241591,
+      "type": "urban"
+    },
+    {
+      "id": 12,
+      "name": "Quận 12",
+      "name_en": "District 12",
+      "lat": 10.8636,
+      "lon": 106.6701,
+      "area_km2": 52.78,
+      "population": 528000,
+      "type": "urban"
+    },
+    {
+      "id": 13,
+      "name": "Quận Bình Thạnh",
+      "name_en": "Binh Thanh District",
+      "lat": 10.8054,
+      "lon": 106.7136,
+      "area_km2": 20.88,
+      "population": 465000,
+      "type": "urban"
+    },
+    {
+      "id": 14,
+      "name": "Quận Gò Vấp",
+      "name_en": "Go Vap District",
+      "lat": 10.8376,
+      "lon": 106.6664,
+      "area_km2": 19.76,
+      "population": 622000,
+      "type": "urban"
+    },
+    {
+      "id": 15,
+      "name": "Quận Phú Nhuận",
+      "name_en": "Phu Nhuan District",
+      "lat": 10.7979,
+      "lon": 106.6810,
+      "area_km2": 4.88,
+      "population": 178267,
+      "type": "urban"
+    },
+    {
+      "id": 16,
+      "name": "Quận Tân Bình",
+      "name_en": "Tan Binh District",
+      "lat": 10.8007,
+      "lon": 106.6530,
+      "area_km2": 22.38,
+      "population": 448000,
+      "type": "urban"
+    },
+    {
+      "id": 17,
+      "name": "Quận Tân Phú",
+      "name_en": "Tan Phu District",
+      "lat": 10.7866,
+      "lon": 106.6275,
+      "area_km2": 16.06,
+      "population": 440000,
+      "type": "urban"
+    },
+    {
+      "id": 18,
+      "name": "Quận Bình Tân",
+      "name_en": "Binh Tan District",
+      "lat": 10.7403,
+      "lon": 106.6067,
+      "area_km2": 52.76,
+      "population": 720000,
+      "type": "urban"
+    },
+    {
+      "id": 19,
+      "name": "Huyện Củ Chi",
+      "name_en": "Cu Chi District",
+      "lat": 10.9742,
+      "lon": 106.4916,
+      "area_km2": 434.80,
+      "population": 437000,
+      "type": "rural"
+    },
+    {
+      "id": 20,
+      "name": "Huyện Hóc Môn",
+      "name_en": "Hoc Mon District",
+      "lat": 10.8838,
+      "lon": 106.5927,
+      "area_km2": 109.00,
+      "population": 340000,
+      "type": "rural"
+    },
+    {
+      "id": 21,
+      "name": "Huyện Bình Chánh",
+      "name_en": "Binh Chanh District",
+      "lat": 10.7289,
+      "lon": 106.5791,
+      "area_km2": 252.73,
+      "population": 668000,
+      "type": "rural"
+    },
+    {
+      "id": 22,
+      "name": "Huyện Nhà Bè",
+      "name_en": "Nha Be District",
+      "lat": 10.6920,
+      "lon": 106.7291,
+      "area_km2": 100.43,
+      "population": 260000,
+      "type": "rural"
+    },
+    {
+      "id": 23,
+      "name": "Huyện Cần Giờ",
+      "name_en": "Can Gio District",
+      "lat": 10.4080,
+      "lon": 106.9506,
+      "area_km2": 704.20,
+      "population": 73000,
+      "type": "rural"
+    },
+    {
+      "id": 24,
+      "name": "Quận Thủ Đức",
+      "name_en": "Thu Duc District",
+      "lat": 10.8505,
+      "lon": 106.7693,
+      "area_km2": 47.84,
+      "population": 420000,
+      "type": "urban"
+    }
+  ]
+}
