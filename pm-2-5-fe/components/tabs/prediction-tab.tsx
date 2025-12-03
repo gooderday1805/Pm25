@@ -150,7 +150,7 @@ export default function PredictionTab({
     <div className="space-y-6">
       {/* Time Selection Card */}
       <Card className="border-slate-700 bg-slate-800/50 p-6">
-        <h2 className="mb-4 text-lg font-semibold text-white">Chọn Thời Gian Dự Đoán</h2>
+        <h2 className="mb-4 text-lg font-semibold text-white">Chọn Thời Gian Để Crawl Dữ Liệu Dự Đoán</h2>
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <div>
